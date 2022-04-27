@@ -8,12 +8,11 @@ You choose three positive adjectives to describe the safe option, resulting in f
 
 Using online participants and gratuities, you can run the study at a cost of $5 per participant.
 
-<!-- TODO: Change these values slightly each semester -->
-Assume that 50% of participants will typically choose the safe option, and a really great adjective could improve the proportion who choose the safe option to 60% (an impressive 10% increase over the 50 percentage point baseline).
+Assume that 50% of participants will typically choose the safe option, and a really great adjective could improve the proportion who choose the safe option to 58% (an impressive 16% increase over the 50 percentage point baseline).
 
-How many participants and what budget would you need to have a 50% chance of seeing an effect that yields _p_\<=0.05 using a chi-square test, if you are indeed correct that there is an adjective that causes 60% of participants to take the safe option? (The simplest case is a single adjective having an impact and all of the others having no impact, as you don’t need to make any assumptions about the two individual contributions combined.)
+How many participants and what budget would you need to have a 50% chance of seeing an effect that yields _p_\<=0.05 using a chi-square test, if you are indeed correct that there is an adjective that causes 58% of participants to take the safe option? (The simplest case is a single adjective having an impact and all of the others having no impact, as you don’t need to make any assumptions about the two individual contributions combined.)
 
-The simplest way to determine this is through numerical analysis: build a 12x2 contingency table of hypothetical observed results where one adjective has a 60% compliance rate, i.e., 60% of participants choose the safe option, in all of the treatment groups in which that adjective appears.  All other adjectives have a 50% warning compliance rate.  Increase the absolute numbers of participants (keeping the ratios the same) until you reach the point where the chi-square test produces a p-value \<= 0.05.  We recommend you use the CHITEST function in Excel or Google Sheets to run the chi-square tests, unless you have familiarity with statistical software.
+The simplest way to determine this is through numerical analysis: build a 12x2 contingency table of hypothetical observed results where one adjective has a 58% compliance rate, i.e., 58% of participants choose the safe option, in all of the treatment groups in which that adjective appears.  All other adjectives have a 50% warning compliance rate.  Increase the absolute numbers of participants (keeping the ratios the same) until you reach the point where the chi-square test produces a p-value \<= 0.05.  We recommend you use the CHITEST function in Excel or Google Sheets to run the chi-square tests, unless you have familiarity with statistical software.
 
 Previous students have found [this video](https://www.youtube.com/watch?v=hpWdDmgsIRE) and [this video](https://www.youtube.com/watch?v=n06JNqE8kuE) helpful.  We strongly suggest watching both of these videos.
 
