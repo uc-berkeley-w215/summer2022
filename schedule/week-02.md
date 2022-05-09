@@ -17,7 +17,7 @@
 
 1.  Pick a cognitive bias from [this list](https://en.wikipedia.org/wiki/List_of_cognitive_biases). Create two slides to present in class that explain the bias and how it might impact users’ security or privacy behavior (or the study of that behavior).
 
-1.  Please spend a few minutes writing down your thoughts to each of these questions. Create additional slides for your answers to the *first two questions* to share with the class.
+1.  Please spend a few minutes writing down your thoughts to each of these questions.  For the *first two questions*, create additional slides to share with the class.  These slides should be brief and contain just a few salient examples from your answer.
 
 	1.  > What are some examples of security interfaces that you use in your daily life that lead to irrational behaviors? (You may start with the examples you and your classmates came up with last week.)
 
