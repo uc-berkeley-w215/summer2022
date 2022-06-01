@@ -6,10 +6,10 @@
 
 - [Your attention please: Designing security-decision UIs to make genuine risks harder to ignore](https://drive.google.com/file/d/1la6SLKFGI1lzWEiY45DvVHnt8N_g5oIQ/view?usp=sharing), by Bravo-Lillo et al. **Discussion lead: Andrew Robertson**
 
+- [A Week to Remember: The Impact of Browser Warning Storage Policies](https://www.usenix.org/system/files/conference/soups2016/soups2016-paper-weinberger.pdf), by Weinberger and Felt.  **Discussion lead: Danny Rittman**
+
 
 ### Readings you may choose to present
-
-- [A Week to Remember: The Impact of Browser Warning Storage Policies](https://www.usenix.org/system/files/conference/soups2016/soups2016-paper-weinberger.pdf), by Weinberger and Felt.
 
 - [Put your warning where your link is: Improving and evaluating email phishing warnings](https://drive.google.com/file/d/1zxAGKT8-a-zL2_KEcUSuZXlmav2DPPfL/view?usp=sharing), by Petelka et al.
 
