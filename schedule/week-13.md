@@ -6,13 +6,14 @@
 
 ### Readings to be presented (students not presenting should read at least 1 or skim 3 of the papers for this week) 
 
+  - [A Comparative Study of Online Privacy Policies and Formats](http://lorrie.cranor.org/pubs/authors-version-PETS-formats.pdf), by McDonald et al. (2009)  **Discussion lead: Coby Zhong**
+
   - [Standardizing Privacy Notices: An Online Study of the Nutrition Label Approach](https://www.cylab.cmu.edu/_files/pdfs/tech_reports/CMUCyLab09014.pdf), by Kelley et al. (2010) **Discussion lead: Jesse Fuchs**
 
   - [What Do Online Behavioral Advertising Privacy Disclosures Communicate to Users?](http://www.blaseur.com/papers/wpes2012-obaicons.pdf), by León et al. (2012)  **Discussion lead: Alyssa Edmond**
 
 ### Readings you may choose to present
 
-  - [A Comparative Study of Online Privacy Policies and Formats](http://lorrie.cranor.org/pubs/authors-version-PETS-formats.pdf), by McDonald et al. (2009)
   - [Necessary but Not Sufficient: Standardized Mechanisms for Privacy Notice and Choice](http://www.jthtl.org/content/articles/V10I2/JTHTLv10i2_Cranor.PDF), by Lorrie Cranor. (2012)
 
 ### Optional readings (if you're really interested in this topic)
