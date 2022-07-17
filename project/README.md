@@ -23,7 +23,7 @@ The final deliverable will be a research paper which should contain:
   - **Research Question**: A concise statement of the question you want to answer, such as a behavior you would like to measure the prevalence of or a hypothesis that one approach to a problem is more effective than another.
   - **Related Work**: A description of research that inspired yours or that your results/methodology build upon.  This should be similar to the related work sections in the papers you have read in the course.  It should go through relevant papers, summarize them, and describe how they relate to your research project.
   - **Methodology**: A detailed overview of the research method, the prepared study materials, and recruiting plan.
-  - **Results**: A description of the pilot sessions, the resulting changes that were made to the research materials, and results from follow-on studies, if any.
+  - **Results**: A description of the pilot sessions, the resulting changes that were made to the research materials, and results from follow-on studies, if any.  Results should include tables, graphs, and statistical test results, as appropriate.
   - **Discussion**: Your interpretation of the results and any implications of them.
   - **Limitations and Future Work**: Any improvements you would make to these studies or a future study.
   - **Conclusion**: A summary of the main takeaways of the research.
